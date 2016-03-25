@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.pdb

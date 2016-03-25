@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\EncapsulationAndPolymorphism\EncapsulationAndPolymorphism\bin\Debug\EncapsulationAndPolymorphism.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\EncapsulationAndPolymorphism\EncapsulationAndPolymorphism\bin\Debug\EncapsulationAndPolymorphism.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\EncapsulationAndPolymorphism\EncapsulationAndPolymorphism\bin\Debug\EncapsulationAndPolymorphism.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\EncapsulationAndPolymorphism\EncapsulationAndPolymorphism\obj\Debug\1.Shapes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\EncapsulationAndPolymorphism\EncapsulationAndPolymorphism\obj\Debug\EncapsulationAndPolymorphism.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\EncapsulationAndPolymorphism\EncapsulationAndPolymorphism\obj\Debug\EncapsulationAndPolymorphism.pdb

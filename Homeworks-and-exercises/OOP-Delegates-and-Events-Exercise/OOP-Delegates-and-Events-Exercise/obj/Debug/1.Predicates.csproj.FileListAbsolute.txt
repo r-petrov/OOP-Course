@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOP-Delegates-and-Events-Exercise\OOP-Delegates-and-Events-Exercise\bin\Debug\OOP-Delegates-and-Events-Exercise.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOP-Delegates-and-Events-Exercise\OOP-Delegates-and-Events-Exercise\bin\Debug\OOP-Delegates-and-Events-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOP-Delegates-and-Events-Exercise\OOP-Delegates-and-Events-Exercise\bin\Debug\OOP-Delegates-and-Events-Exercise.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOP-Delegates-and-Events-Exercise\OOP-Delegates-and-Events-Exercise\obj\Debug\1.Predicates.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOP-Delegates-and-Events-Exercise\OOP-Delegates-and-Events-Exercise\obj\Debug\OOP-Delegates-and-Events-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOP-Delegates-and-Events-Exercise\OOP-Delegates-and-Events-Exercise\obj\Debug\OOP-Delegates-and-Events-Exercise.pdb

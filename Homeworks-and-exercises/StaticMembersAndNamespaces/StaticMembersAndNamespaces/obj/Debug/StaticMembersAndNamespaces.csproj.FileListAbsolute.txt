@@ -1,0 +1,9 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.pdb

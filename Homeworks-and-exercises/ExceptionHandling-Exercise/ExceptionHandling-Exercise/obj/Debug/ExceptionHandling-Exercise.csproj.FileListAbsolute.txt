@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling-Exercise\ExceptionHandling-Exercise\bin\Debug\ExceptionHandling-Exercise.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling-Exercise\ExceptionHandling-Exercise\bin\Debug\ExceptionHandling-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling-Exercise\ExceptionHandling-Exercise\bin\Debug\ExceptionHandling-Exercise.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling-Exercise\ExceptionHandling-Exercise\obj\Debug\ExceptionHandling-Exercise.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling-Exercise\ExceptionHandling-Exercise\obj\Debug\ExceptionHandling-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling-Exercise\ExceptionHandling-Exercise\obj\Debug\ExceptionHandling-Exercise.pdb

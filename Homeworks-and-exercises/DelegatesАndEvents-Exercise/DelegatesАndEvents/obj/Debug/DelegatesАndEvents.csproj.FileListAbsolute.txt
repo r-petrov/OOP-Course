@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesАndEvents\DelegatesАndEvents\bin\Debug\DelegatesАndEvents.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesАndEvents\DelegatesАndEvents\bin\Debug\DelegatesАndEvents.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesАndEvents\DelegatesАndEvents\bin\Debug\DelegatesАndEvents.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesАndEvents\DelegatesАndEvents\obj\Debug\DelegatesАndEvents.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesАndEvents\DelegatesАndEvents\obj\Debug\DelegatesАndEvents.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesАndEvents\DelegatesАndEvents\obj\Debug\DelegatesАndEvents.pdb

@@ -1,0 +1,1 @@
+Book addedBook addedBook does not existBook soldBook does not existBook removed!Book does not existGoodbye!Total revenue: 4.45

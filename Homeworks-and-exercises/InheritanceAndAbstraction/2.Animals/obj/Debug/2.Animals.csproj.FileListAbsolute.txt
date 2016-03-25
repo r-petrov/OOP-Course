@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.pdb

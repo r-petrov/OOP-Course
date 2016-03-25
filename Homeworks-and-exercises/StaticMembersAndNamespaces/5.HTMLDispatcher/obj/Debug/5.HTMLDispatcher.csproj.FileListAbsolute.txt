@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\5.HTMLDispatcher\bin\Debug\5.HTMLDispatcher.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\5.HTMLDispatcher\bin\Debug\5.HTMLDispatcher.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\5.HTMLDispatcher\bin\Debug\5.HTMLDispatcher.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\5.HTMLDispatcher\obj\Debug\5.HTMLDispatcher.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\5.HTMLDispatcher\obj\Debug\5.HTMLDispatcher.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\StaticMembersAndNamespaces\5.HTMLDispatcher\obj\Debug\5.HTMLDispatcher.csprojResolveAssemblyReference.cache

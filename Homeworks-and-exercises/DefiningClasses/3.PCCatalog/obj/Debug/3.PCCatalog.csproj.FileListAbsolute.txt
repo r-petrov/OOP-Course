@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\3.PCCatalog\bin\Debug\3.PCCatalog.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\3.PCCatalog\bin\Debug\3.PCCatalog.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\3.PCCatalog\bin\Debug\3.PCCatalog.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\3.PCCatalog\obj\Debug\3.PCCatalog.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\3.PCCatalog\obj\Debug\3.PCCatalog.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\3.PCCatalog\obj\Debug\3.PCCatalog.pdb

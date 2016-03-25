@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem\3.StringDisperser\bin\Debug\3.StringDisperser.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem\3.StringDisperser\bin\Debug\3.StringDisperser.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem\3.StringDisperser\bin\Debug\3.StringDisperser.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem\3.StringDisperser\obj\Debug\3.StringDisperser.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem\3.StringDisperser\obj\Debug\3.StringDisperser.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem\3.StringDisperser\obj\Debug\3.StringDisperser.csprojResolveAssemblyReference.cache

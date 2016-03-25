@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FarmersCreed.FarmersCreedMain" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>FarmersCreedMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.Simulator.FarmSimulator" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAAkAgAEAAAAAAAQAQI=</HashCode>
+      <FileName>Simulator\FarmSimulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.Units.Animal" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Units\Animals\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.Units.Farm" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAAAAAAAAAAAAAQQAAABAAkAAAAAAAEAAAAgAQ=</HashCode>
+      <FileName>Units\Farm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FarmersCreed.Units.FarmUnit" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAgAAAg=</HashCode>
+      <FileName>Units\FarmUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FarmersCreed.Units.Food">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Units\Products\Food.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FarmersCreed.Units.GameObject" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Units\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.Units.Plant" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAEAAwgCgAEAAAgAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Units\Plants\Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.Units.Product" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAAAAAAAEAAAAAAAAAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Units\Products\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FarmersCreed.FoodPlant">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Plants\FoodPlant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.TobaccoPlant">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Units\Plants\TobaccoPlant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.CherryTree">
+    <Position X="1.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Units\Plants\CherryTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.Cow">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Units\Animals\Cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.Swine">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Units\Animals\Swine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FarmersCreed.ExtendedFarmSimulator">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Simulator\ExtendedFarmSimulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FarmersCreed.IProduct" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Interfaces\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FarmersCreed.Interfaces.IEdible" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Interfaces\IEdible.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FarmersCreed.Interfaces.IFarm" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAAAAAAAAAAAAAQQAAABAAkAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Interfaces\IFarm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FarmersCreed.Interfaces.IProductProduceable" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Interfaces\IProductProducable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FarmersCreed.Units.FoodType" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Products\FoodType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FarmersCreed.Units.ProductType" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAABAAAAAAQAAAAAAAAAAAAAAABAIA=</HashCode>
+      <FileName>Units\Products\ProductType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

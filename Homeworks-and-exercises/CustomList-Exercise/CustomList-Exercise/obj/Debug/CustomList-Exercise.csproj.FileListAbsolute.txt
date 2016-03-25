@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CustomList-Exercise\CustomList-Exercise\bin\Debug\CustomList-Exercise.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CustomList-Exercise\CustomList-Exercise\bin\Debug\CustomList-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CustomList-Exercise\CustomList-Exercise\bin\Debug\CustomList-Exercise.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CustomList-Exercise\CustomList-Exercise\obj\Debug\CustomList-Exercise.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CustomList-Exercise\CustomList-Exercise\obj\Debug\CustomList-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CustomList-Exercise\CustomList-Exercise\obj\Debug\CustomList-Exercise.pdb

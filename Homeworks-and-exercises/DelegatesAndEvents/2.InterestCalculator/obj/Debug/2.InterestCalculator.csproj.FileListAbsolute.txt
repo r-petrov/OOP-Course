@@ -1,0 +1,5 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\2.InterestCalculator\bin\Debug\2.InterestCalculator.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\2.InterestCalculator\bin\Debug\2.InterestCalculator.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\2.InterestCalculator\bin\Debug\2.InterestCalculator.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\2.InterestCalculator\obj\Debug\2.InterestCalculator.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\2.InterestCalculator\obj\Debug\2.InterestCalculator.pdb

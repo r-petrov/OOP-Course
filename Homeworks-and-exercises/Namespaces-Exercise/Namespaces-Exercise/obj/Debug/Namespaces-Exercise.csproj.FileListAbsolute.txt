@@ -1,0 +1,1 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\Namespaces-Exercise\Namespaces-Exercise\bin\Debug\Namespaces-Exercise.exe.config

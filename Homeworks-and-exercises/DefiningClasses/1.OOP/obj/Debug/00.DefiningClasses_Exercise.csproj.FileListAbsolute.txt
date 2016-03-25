@@ -1,0 +1,9 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\1.OOP\bin\Debug\1.OOP.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\1.OOP\bin\Debug\1.OOP.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\1.OOP\bin\Debug\1.OOP.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\1.OOP\obj\Debug\00.DefiningClasses_Exercise.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\1.OOP\obj\Debug\1.OOP.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\1.OOP\obj\Debug\1.OOP.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\1.DefiningClasses\1.OOP\bin\Debug\1.OOP.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\1.DefiningClasses\1.OOP\obj\Debug\1.OOP.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\1.DefiningClasses\1.OOP\obj\Debug\1.OOP.pdb

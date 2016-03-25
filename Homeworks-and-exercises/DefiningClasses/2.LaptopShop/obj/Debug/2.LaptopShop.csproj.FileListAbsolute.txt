@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\2.LaptopShop\bin\Debug\2.LaptopShop.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\2.LaptopShop\bin\Debug\2.LaptopShop.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\2.LaptopShop\bin\Debug\2.LaptopShop.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\2.LaptopShop\obj\Debug\2.LaptopShop.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\2.LaptopShop\obj\Debug\2.LaptopShop.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\01.OOP-Defining-Classes\Homeworks-and-exercises\1.OOP\2.LaptopShop\obj\Debug\2.LaptopShop.pdb

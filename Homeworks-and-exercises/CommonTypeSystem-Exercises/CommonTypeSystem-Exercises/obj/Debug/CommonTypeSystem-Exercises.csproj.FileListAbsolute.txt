@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem-Exercises\CommonTypeSystem-Exercises\bin\Debug\CommonTypeSystem-Exercises.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem-Exercises\CommonTypeSystem-Exercises\bin\Debug\CommonTypeSystem-Exercises.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem-Exercises\CommonTypeSystem-Exercises\bin\Debug\CommonTypeSystem-Exercises.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem-Exercises\CommonTypeSystem-Exercises\obj\Debug\CommonTypeSystem-Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem-Exercises\CommonTypeSystem-Exercises\obj\Debug\CommonTypeSystem-Exercises.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\CommonTypeSystem-Exercises\CommonTypeSystem-Exercises\obj\Debug\CommonTypeSystem-Exercises.pdb

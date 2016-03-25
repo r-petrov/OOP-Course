@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-1March2015\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-1March2015\Console-Forum-Skeleton\obj\Debug\ConsoleForum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-1March2015\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-1March2015\Console-Forum-Skeleton\bin\Debug\ConsoleForum.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-1March2015\Console-Forum-Skeleton\obj\Debug\ConsoleForum.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-1March2015\Console-Forum-Skeleton\obj\Debug\ConsoleForum.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\bin\Debug\Battleships.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\bin\Debug\Battleships.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\bin\Debug\Battleships.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\obj\Debug\Battleships.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\obj\Debug\Battleships.pdb

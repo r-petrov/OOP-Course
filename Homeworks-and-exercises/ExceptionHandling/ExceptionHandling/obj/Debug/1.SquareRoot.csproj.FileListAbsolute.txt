@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling\ExceptionHandling\obj\Debug\1.SquareRoot.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

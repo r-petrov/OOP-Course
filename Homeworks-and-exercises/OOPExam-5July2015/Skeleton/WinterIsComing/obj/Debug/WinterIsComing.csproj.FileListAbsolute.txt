@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-5July2015\Skeleton\WinterIsComing\bin\Debug\WinterIsComing.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-5July2015\Skeleton\WinterIsComing\bin\Debug\WinterIsComing.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-5July2015\Skeleton\WinterIsComing\bin\Debug\WinterIsComing.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-5July2015\Skeleton\WinterIsComing\obj\Debug\WinterIsComing.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-5July2015\Skeleton\WinterIsComing\obj\Debug\WinterIsComing.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\OOPExam-5July2015\Skeleton\WinterIsComing\obj\Debug\WinterIsComing.pdb

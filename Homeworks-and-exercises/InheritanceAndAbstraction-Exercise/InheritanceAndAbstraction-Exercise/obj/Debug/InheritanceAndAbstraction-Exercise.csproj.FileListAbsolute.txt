@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction-Exercise\InheritanceAndAbstraction-Exercise\bin\Debug\InheritanceAndAbstraction-Exercise.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction-Exercise\InheritanceAndAbstraction-Exercise\bin\Debug\InheritanceAndAbstraction-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction-Exercise\InheritanceAndAbstraction-Exercise\bin\Debug\InheritanceAndAbstraction-Exercise.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction-Exercise\InheritanceAndAbstraction-Exercise\obj\Debug\InheritanceAndAbstraction-Exercise.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction-Exercise\InheritanceAndAbstraction-Exercise\obj\Debug\InheritanceAndAbstraction-Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction-Exercise\InheritanceAndAbstraction-Exercise\obj\Debug\InheritanceAndAbstraction-Exercise.pdb

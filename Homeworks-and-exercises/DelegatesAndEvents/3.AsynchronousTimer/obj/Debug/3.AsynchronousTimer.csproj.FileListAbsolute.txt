@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\3.AsynchronousTimer\bin\Debug\3.AsynchronousTimer.exe.config
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\3.AsynchronousTimer\bin\Debug\3.AsynchronousTimer.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\3.AsynchronousTimer\bin\Debug\3.AsynchronousTimer.pdb
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\3.AsynchronousTimer\obj\Debug\3.AsynchronousTimer.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\3.AsynchronousTimer\obj\Debug\3.AsynchronousTimer.exe
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\DelegatesAndEvents\3.AsynchronousTimer\obj\Debug\3.AsynchronousTimer.pdb

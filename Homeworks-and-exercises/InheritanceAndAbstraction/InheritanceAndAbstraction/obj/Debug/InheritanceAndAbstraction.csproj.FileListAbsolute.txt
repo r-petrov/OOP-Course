@@ -1,0 +1,1 @@
+D:\SoftUni\Courses\programming_fundamentals\OOP\Homeworks-and-exercises\InheritanceAndAbstraction\InheritanceAndAbstraction\bin\Debug\InheritanceAndAbstraction.exe.config
